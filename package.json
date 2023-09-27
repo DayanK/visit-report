@@ -1,0 +1,73 @@
+{
+    "name": "teamsfx-template-tab",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@azure/msal-browser": "^2.22.1",
+        "@azure/msal-react": "^1.3.1",
+        "@fluentui/react": "^8.63.1",
+        "@fluentui/react-northstar": "^0.66.3",
+        "@microsoft/microsoft-graph-client": "^3.0.5",
+        "@microsoft/teams-js": "^2.13.0",
+        "@microsoft/teamsfx": "^2.2.1",
+        "@microsoft/teamsfx-react": "^3.0.0",
+        "@types/microsoft-graph": "latest",
+        "@typescript-eslint/eslint-plugin": "^5.55.0",
+        "axios": "^0.21.1",
+        "bingmaps": "latest",
+        "cors": "^2.8.5",
+        "date-fns": "^2.29.3",
+        "date-fns-tz": "latest",
+        "eslint-config-react": "latest",
+        "eslint-config-react-app": "6",
+        "i18next": "^22.4.11",
+        "i18next-browser-languagedetector": "^7.0.1",
+        "moment": "^2.29.4",
+        "msteams-react-base-component": "^3.1.0",
+        "react": "^18.2.0",
+        "react-async": "^10.0.1",
+        "react-bootstrap": "^2.7.2",
+        "react-dom": "^18.2.0",
+        "react-i18next": "^12.2.0",
+        "react-router-dom": "5.1.2",
+        "react-scripts": "^5.0.1",
+        "react-treeview": "^0.4.7",
+        "standard": "^17.0.0",
+        "uuidv4": "^6.2.13",
+        "windows-iana": "^5.1.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^26.0.15",
+        "@types/node": "^12.0.0",
+        "@types/react": "^18.2.18",
+        "@types/react-dom": "^18.2.7",
+        "@types/react-router-dom": "^5.1.7",
+        "cross-env": "^7.0.3",
+        "env-cmd": "^10.1.0",
+        "react": "^16.14.0",
+        "react-error-overlay": "6.0.9",
+        "typescript": "^4.1.2"
+    },
+    "scripts": {
+        "dev:teamsfx": "env-cmd --silent -f .env.teamsfx.local yarn run start",
+        "start": "react-scripts start",
+        "build": "yarn react-scripts build",
+        "build:teamsfx": "cross-env-shell \"env-cmd -f .env.teamsfx.${TEAMS_FX_ENV} yarn run build\"",
+        "build:teamsfx:dev": "cross-env TEAMS_FX_ENV=dev yarn run build:teamsfx",
+        "eject": "yarn react-scripts eject",
+        "server": "json-server ./db.json -p 5002 -w -d 0"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "homepage": "."
+}

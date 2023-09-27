@@ -1,0 +1,439 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('754178a1-f19b-46c7-af37-3dbf26a5b0aa')/events(subject,body,bodyPreview,organizer,attendees,start,end,location)",
+  "value": [
+    {
+      "@odata.etag": "W/\"n7vIkXvC0kGpm4qgXA0HeQAAM+2GcQ==\"",
+      "id": "AAMkADJlMDdhMThiLTc1OWQtNGQzZS05YjFjLTBlNzM0YmFhNDc4OABGAAAAAABRwpP8ZIH9RL_CxJaV2jc6BwCfu8iRe8LSQambiqBcDQd5AAAAAAENAACfu8iRe8LSQambiqBcDQd5AAAz-yQ4AAA=",
+      "subject": "End",
+      "bodyPreview": "",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+      },
+      "start": {
+        "dateTime": "2023-08-29T16:00:11.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-08-29T16:00:11.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "End",
+        "locationUri": "",
+        "locationType": "default",
+        "uniqueId": "End",
+        "uniqueIdType": "private",
+        "address": {
+          "street": "Zugspitzstr 5f",
+          "city": "Kolbermoor",
+          "state": "",
+          "countryOrRegion": "DE",
+          "postalCode": "83059"
+        },
+        "coordinates": {
+          "latitude": 12.047037,
+          "longitude": 12.047037
+        }
+      },
+      "attendees": [],
+      "organizer": {
+        "emailAddress": {
+          "name": "Maxim Kemajou",
+          "address": "Maxim_Kemajou@n77r.onmicrosoft.com"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"n7vIkXvC0kGpm4qgXA0HeQAAM+2Gbw==\"",
+      "id": "AAMkADJlMDdhMThiLTc1OWQtNGQzZS05YjFjLTBlNzM0YmFhNDc4OABGAAAAAABRwpP8ZIH9RL_CxJaV2jc6BwCfu8iRe8LSQambiqBcDQd5AAAAAAENAACfu8iRe8LSQambiqBcDQd5AAAz-yQ3AAA=",
+      "subject": "Melissa Bauer",
+      "bodyPreview": "",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+      },
+      "start": {
+        "dateTime": "2023-08-29T07:15:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-08-29T07:45:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Melissa Bauer",
+        "locationUri": "",
+        "locationType": "default",
+        "uniqueId": "Melissa Bauer",
+        "uniqueIdType": "private",
+        "address": {
+          "street": "Am Kreuzacker 18",
+          "city": "Penzberg",
+          "state": "",
+          "countryOrRegion": "DE",
+          "postalCode": "82377"
+        },
+        "coordinates": {
+          "latitude": 11.36058427,
+          "longitude": 11.36058427
+        }
+      },
+      "attendees": [],
+      "organizer": {
+        "emailAddress": {
+          "name": "Maxim Kemajou",
+          "address": "Maxim_Kemajou@n77r.onmicrosoft.com"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"n7vIkXvC0kGpm4qgXA0HeQAAM+2Gag==\"",
+      "id": "AAMkADJlMDdhMThiLTc1OWQtNGQzZS05YjFjLTBlNzM0YmFhNDc4OABGAAAAAABRwpP8ZIH9RL_CxJaV2jc6BwCfu8iRe8LSQambiqBcDQd5AAAAAAENAACfu8iRe8LSQambiqBcDQd5AAAz-yQ2AAA=",
+      "subject": "Melissa Karl",
+      "bodyPreview": "",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+      },
+      "start": {
+        "dateTime": "2023-08-29T06:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-08-29T07:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Melissa Karl",
+        "locationUri": "",
+        "locationType": "default",
+        "uniqueId": "Melissa Karl",
+        "uniqueIdType": "private",
+        "address": {
+          "street": "Am Karl-Wald-Stadion 3",
+          "city": "Penzberg",
+          "state": "",
+          "countryOrRegion": "DE",
+          "postalCode": "82377"
+        },
+        "coordinates": {
+          "latitude": 11.37778603,
+          "longitude": 11.37778603
+        }
+      },
+      "attendees": [],
+      "organizer": {
+        "emailAddress": {
+          "name": "Maxim Kemajou",
+          "address": "Maxim_Kemajou@n77r.onmicrosoft.com"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"n7vIkXvC0kGpm4qgXA0HeQAAM+2GZw==\"",
+      "id": "AAMkADJlMDdhMThiLTc1OWQtNGQzZS05YjFjLTBlNzM0YmFhNDc4OABGAAAAAABRwpP8ZIH9RL_CxJaV2jc6BwCfu8iRe8LSQambiqBcDQd5AAAAAAENAACfu8iRe8LSQambiqBcDQd5AAAz-yQ1AAA=",
+      "subject": "Start",
+      "bodyPreview": "",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+      },
+      "start": {
+        "dateTime": "2023-08-29T05:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-08-29T05:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Start",
+        "locationUri": "",
+        "locationType": "default",
+        "uniqueId": "Start",
+        "uniqueIdType": "private",
+        "address": {
+          "street": "Zugspitzstr 5f",
+          "city": "Kolbermoor",
+          "state": "",
+          "countryOrRegion": "DE",
+          "postalCode": "83059"
+        },
+        "coordinates": {
+          "latitude": 12.047037,
+          "longitude": 12.047037
+        }
+      },
+      "attendees": [],
+      "organizer": {
+        "emailAddress": {
+          "name": "Maxim Kemajou",
+          "address": "Maxim_Kemajou@n77r.onmicrosoft.com"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"n7vIkXvC0kGpm4qgXA0HeQAAM+2GZQ==\"",
+      "id": "AAMkADJlMDdhMThiLTc1OWQtNGQzZS05YjFjLTBlNzM0YmFhNDc4OABGAAAAAABRwpP8ZIH9RL_CxJaV2jc6BwCfu8iRe8LSQambiqBcDQd5AAAAAAENAACfu8iRe8LSQambiqBcDQd5AAAz-yQ0AAA=",
+      "subject": "End",
+      "bodyPreview": "",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+      },
+      "start": {
+        "dateTime": "2023-08-28T16:00:11.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-08-28T16:00:11.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "End",
+        "locationUri": "",
+        "locationType": "default",
+        "uniqueId": "End",
+        "uniqueIdType": "private",
+        "address": {
+          "street": "Zugspitzstr 5f",
+          "city": "Kolbermoor",
+          "state": "",
+          "countryOrRegion": "DE",
+          "postalCode": "83059"
+        },
+        "coordinates": {
+          "latitude": 12.047037,
+          "longitude": 12.047037
+        }
+      },
+      "attendees": [],
+      "organizer": {
+        "emailAddress": {
+          "name": "Maxim Kemajou",
+          "address": "Maxim_Kemajou@n77r.onmicrosoft.com"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"n7vIkXvC0kGpm4qgXA0HeQAAM+2GYw==\"",
+      "id": "AAMkADJlMDdhMThiLTc1OWQtNGQzZS05YjFjLTBlNzM0YmFhNDc4OABGAAAAAABRwpP8ZIH9RL_CxJaV2jc6BwCfu8iRe8LSQambiqBcDQd5AAAAAAENAACfu8iRe8LSQambiqBcDQd5AAAz-yQzAAA=",
+      "subject": "Robert Koch",
+      "bodyPreview": "",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+      },
+      "start": {
+        "dateTime": "2023-08-28T11:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-08-28T12:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Robert Koch",
+        "locationUri": "",
+        "locationType": "default",
+        "uniqueId": "Robert Koch",
+        "uniqueIdType": "private",
+        "address": {
+          "street": "Am Alten Einlaß 25",
+          "city": "Augsburg",
+          "state": "",
+          "countryOrRegion": "Deutschland",
+          "postalCode": "86150"
+        },
+        "coordinates": {
+          "latitude": 10.89196371,
+          "longitude": 10.89196371
+        }
+      },
+      "attendees": [],
+      "organizer": {
+        "emailAddress": {
+          "name": "Maxim Kemajou",
+          "address": "Maxim_Kemajou@n77r.onmicrosoft.com"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"n7vIkXvC0kGpm4qgXA0HeQAAM+2GYA==\"",
+      "id": "AAMkADJlMDdhMThiLTc1OWQtNGQzZS05YjFjLTBlNzM0YmFhNDc4OABGAAAAAABRwpP8ZIH9RL_CxJaV2jc6BwCfu8iRe8LSQambiqBcDQd5AAAAAAENAACfu8iRe8LSQambiqBcDQd5AAAz-yQyAAA=",
+      "subject": "Stephane Mongovd",
+      "bodyPreview": "",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+      },
+      "start": {
+        "dateTime": "2023-08-28T10:45:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-08-28T11:15:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Stephane Mongovd",
+        "locationUri": "",
+        "locationType": "default",
+        "uniqueId": "Stephane Mongovd",
+        "uniqueIdType": "private",
+        "address": {
+          "street": "Adrian-de-Vries-Straße 11",
+          "city": "Augsburg",
+          "state": "",
+          "countryOrRegion": "Deutschland",
+          "postalCode": "86153"
+        },
+        "coordinates": {
+          "latitude": 10.9163299,
+          "longitude": 10.9163299
+        }
+      },
+      "attendees": [],
+      "organizer": {
+        "emailAddress": {
+          "name": "Maxim Kemajou",
+          "address": "Maxim_Kemajou@n77r.onmicrosoft.com"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"n7vIkXvC0kGpm4qgXA0HeQAAM+2GXQ==\"",
+      "id": "AAMkADJlMDdhMThiLTc1OWQtNGQzZS05YjFjLTBlNzM0YmFhNDc4OABGAAAAAABRwpP8ZIH9RL_CxJaV2jc6BwCfu8iRe8LSQambiqBcDQd5AAAAAAENAACfu8iRe8LSQambiqBcDQd5AAAz-yQxAAA=",
+      "subject": "Boris Joe",
+      "bodyPreview": "",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+      },
+      "start": {
+        "dateTime": "2023-08-28T07:45:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-08-28T10:15:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Boris Joe",
+        "locationUri": "",
+        "locationType": "default",
+        "uniqueId": "Boris Joe",
+        "uniqueIdType": "private",
+        "address": {
+          "street": "Adolf-Mathes-Weg 27",
+          "city": "München",
+          "state": "",
+          "countryOrRegion": "Deutschland",
+          "postalCode": "80999"
+        },
+        "coordinates": {
+          "latitude": 11.464569,
+          "longitude": 11.464569
+        }
+      },
+      "attendees": [],
+      "organizer": {
+        "emailAddress": {
+          "name": "Maxim Kemajou",
+          "address": "Maxim_Kemajou@n77r.onmicrosoft.com"
+        }
+      }
+    },
+    {
+      "@odata.etag": "W/\"n7vIkXvC0kGpm4qgXA0HeQAAM+2GWw==\"",
+      "id": "AAMkADJlMDdhMThiLTc1OWQtNGQzZS05YjFjLTBlNzM0YmFhNDc4OABGAAAAAABRwpP8ZIH9RL_CxJaV2jc6BwCfu8iRe8LSQambiqBcDQd5AAAAAAENAACfu8iRe8LSQambiqBcDQd5AAAz-yQwAAA=",
+      "subject": "John Doe",
+      "bodyPreview": "",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+      },
+      "start": {
+        "dateTime": "2023-12-29T09:15:10.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-08-28T09:45:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "John Doe",
+        "locationUri": "",
+        "locationType": "default",
+        "uniqueId": "John Doe",
+        "uniqueIdType": "private",
+        "address": {
+          "street": "Munich Re Königinstr. 107",
+          "city": "München",
+          "state": "",
+          "countryOrRegion": "Deutschland",
+          "postalCode": "80802"
+        },
+        "coordinates": {
+          "latitude": 11.588229,
+          "longitude": 11.588229
+        }
+      },
+      "attendees": [],
+      "organizer": {
+        "emailAddress": {
+          "name": "Maxim Kemajou",
+          "address": "Maxim_Kemajou@n77r.onmicrosoft.com"
+        }
+      }
+    },
+
+    {
+      "@odata.etag": "W/\"n7vIkXvC0kGpm4qgXA0HeQAAM+2GWQ==\"",
+      "id": "AAMkADJlMDdhMThiLTc1OWQtNGQzZS05YjFjLTBlNzM0YmFhNDc4OABGAAAAAABRwpP8ZIH9RL_CxJaV2jc6BwCfu8iRe8LSQambiqBcDQd5AAAAAAENAACfu8iRe8LSQambiqBcDQd5AAAz-yQvAAA=",
+      "subject": "Aaron Smith",
+      "bodyPreview": "",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+      },
+      "start": {
+        "dateTime": "2023-08-28T07:15:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-08-28T07:45:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Aaron Smith",
+        "locationUri": "",
+        "locationType": "default",
+        "uniqueId": "Aaron Smith",
+        "uniqueIdType": "private",
+        "address": {
+          "street": "Am Breitenfeld 17",
+          "city": "Rosenheim",
+          "state": "",
+          "countryOrRegion": "Deutschland",
+          "postalCode": "83024"
+        },
+        "coordinates": {
+          "latitude": 12.1139015,
+          "longitude": 12.1139015
+        }
+      },
+      "attendees": [],
+      "organizer": {
+        "emailAddress": {
+          "name": "Maxim Kemajou",
+          "address": "Maxim_Kemajou@n77r.onmicrosoft.com"
+        }
+      }
+    }
+  ],
+  "@odata.nextLink": "https://graph.microsoft.com/v1.0/me/events?%24select=subject%2cbody%2cbodyPreview%2corganizer%2cattendees%2cstart%2cend%2clocation&%24top=10&%24skip=10"
+}
+
+

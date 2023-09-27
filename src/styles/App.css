@@ -1,0 +1,21 @@
+*,
+::before,::after{  
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    overscroll-behavior: none; 
+}
+
+html, body, .App {
+  height: 100%;   
+}
+
+/* The parent container is <ThemeProvider theme={themeContext}className="App">*/
+.App{  
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}

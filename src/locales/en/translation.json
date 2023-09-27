@@ -1,0 +1,59 @@
+{
+    "translation" : {
+        "visitReport": {
+            "header": "Visit report overview",
+            "headerEmpty": "No visits to display",
+            "visit":"visit(s)",
+            "withoutVisitReport": "without visit report",
+            "visitReport": "Visit Report",
+            "subjectLbl": "Subject",
+            "partnerLbl": "Partner",
+            "outcomeLbl": "Outcome",
+            "appointmentTypeLbl": "Appointment Type",
+            "dateLbl": "Date",
+            "timeLbl": "Time",
+            "noteLbl": "Note",
+            "createVisitReport": "Visit Report New",
+            "editVisit": "Edit visit",
+            "btnModalCancel": "Cancel",
+            "btnModalSave": "Save",
+            "dropdownOptionOutcome" :{
+                "placeholder":"Select an option",
+                 "key0": "Unknown",
+                 "key1": "Order",
+                 "key2": "Order by phone",
+                 "key3": "No needs",
+                 "key4": "No time",
+                 "key5": "Not met",
+                 "key6": "Not visited",
+                 "key7": "Postponed by customer",
+                 "key8": "Quote",
+                 "key9": "Collection",
+                 "key10": "Consultation",
+                 "key11": "Product presentation",
+                 "key12": "Project presentation",
+                 "key13": "delivery",
+                 "key14": "Extension project",
+                 "key15": "Complaint",
+                 "key16": "Service",
+                 "key17": "Delivery",
+                 "key18": "project preparation"
+            },
+            "dropdownAppointmentType" :{
+                "placeholder":"Select an option",
+                "key0": "Visit",
+                "key1": "Phone call",
+                "key2": "Tour start",
+                "key3": "Tour end",
+                "key4": "All day",
+                "key5": "Tour home start",
+                "key6": "Tour home end",
+                "key7": "Tour start overnight",
+                "key8": "Tour end overnight",
+                "key9": "Tour start undefined overnight",
+                "key10": "Tour end undefined overnight",
+                "key11": "Personal"
+           }
+        }
+    }
+}

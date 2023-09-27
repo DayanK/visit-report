@@ -1,0 +1,59 @@
+{
+    "translation" : {
+
+        "visitReport": {
+            "header": "Übersicht der Besuchsberichte",
+            "headerEmpty": "Keine Besuche zum Anzeigen",
+            "visit":"Besuch(e)",
+            "withoutVisitReport": "ohne Besuchsbericht",
+            "visitReport": "Besuchsbericht",
+            "subjectLbl": "Betreff",
+            "partnerLbl": "Ansprechpartner",
+            "outcomeLbl": "Ergebnis",
+            "appointmentTypeLbl": "Art des Besuchs",
+            "dateLbl": "Datum",
+            "timeLbl": "Uhrzeit",
+            "noteLbl": "Anmerkung",
+            "createVisitReport": "Besuchsbericht erstellen",
+            "editVisit": "Besuchsbericht bearbeiten",
+            "btnModalCancel": "Abbrechen",
+            "btnModalSave": "Speichern",
+            "dropdownOptionOutcome" :{
+                "placeholder":"Wählen Sie eine Option",
+                 "key0": "Unbekannt",
+                 "key1": "Bestellung",
+                 "key2": "Bestellung per Telefon",
+                 "key3": "Kein Bedarf",
+                 "key4": "Keine Zeit",
+                 "key5": "Nicht angetroffen",
+                 "key6": "Nicht besucht",
+                 "key7": "Vom Kunden verschoben",
+                 "key8": "Angebot",
+                 "key9": "Abholung",
+                 "key10": "Beratung",
+                 "key11": "Produktpräsentation",
+                 "key12": "Projekt Präsentation ",
+                 "key13": "Erweiterungsprojekt",
+                 "key14": "Reklamation",
+                 "key15": "Dienstleistung",
+                 "key16": "Lieferung",
+                 "key17": "Projektvorbereitung"
+            },
+            "dropdownAppointmentType" :{
+                "placeholder":"Wählen Sie eine Option",
+                "key0": "Besuch",
+                "key1": "Telefonanruf",
+                "key2": "Start der Tour",
+                "key3": "Ende der Tour",
+                "key4": "Ganztägig",
+                "key5": "Tour Start Zuhause",
+                "key6": "Tour Ende Zuhause",
+                "key7": "Tour Start Übernachtung",
+                "key8": "Tour Ende Übernachtung",
+                "key9": "Tour Start Unbestimmt Übernachtung",
+                "key10": "Tour Ende Unbestimmt Übernachtung",
+                "key11": "Persönlich"
+           }
+        }
+    }
+}
